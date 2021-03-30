@@ -1,0 +1,16 @@
+/.idea/
+/wp-admin/
+/wp-content/*
+!/wp-content/plugins/
+!/wp-content/themes/
+/wp-content/plugins/*
+/wp-content/themes/*
+!/wp-content/plugins/deployer-plugin/
+!/wp-content/themes/deployer-theme/
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/!wp-config.php
+/xmlrpc.php
